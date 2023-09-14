@@ -118,14 +118,14 @@
     <section class="mt-md-5 py-md-5" id = "about">
         <div class="container mt-5" data-aos="fade-up" data-aos-duration="2000" data-aos-delay="50">
             <h2 class=" main-title pt-md-5 pb-5  fw-bold ps-3 ps-md-0 d-flex justify-content-center d-flex justify-content-center align-items-center text-center">About Bramalea Square Condos</h2>
-            <p class=" pb-3 px-3 textt d-flex justify-content-center align-items-center">Bramalea Square Condos in Brampton is an upcoming pre construction condo development in 16 Lisa Street, Brampton, Brampton, ON by Essence Homes and Yau Shin Investments Inc.
+            <p class=" pb-3 px-3 textt d-flex justify-content-center align-items-center">Bramalea Square Condos in Brampton is an upcoming pre construction condo development in 16 Lisa Street, Brampton, ON by Essence Homes and Yau Shin Investments Inc.
             <div class="list  textt  pt-2 px-3">
                                 <p class="mybot pb-md-0 pb-0 ">
                                     Builder: Essence Homes and Yau Shin Investments Inc.
                                 </p>
 
                                 <p class="mybot pb-md-0 pb-0 ">
-                                    Address:  16 Lisa Street, Brampton, Brampton.
+                                    Address:  16 Lisa Street, Brampton.
                                 </p>
                                 <p class="mybot pb-md-0 pb-0 ">
                                 Occupancy: TBD
@@ -190,7 +190,7 @@
                 <h2 class="fw-bold fs-1 mb-0 text-center justify-content-center" >
                     <span class="mx-1 pb-3">Bramalea Square Condos - Location</span> </span>
                 </h2>
-                <span class="small-text text-center d-flex justify-content-center custom-underline pb-3">16 Lisa Street, Brampton, Brampton.</span>
+                <span class="small-text text-center d-flex justify-content-center custom-underline pb-3">16 Lisa Street, Brampton, ON.</span>
                 
                     
                     <div class="bg-white pt-3  pt-md-0 d-flex justify-content-center  ">
@@ -255,24 +255,24 @@ This location is in Brampton. Nearby parks include Norton Place Park, Clark Park
                 <img src="images/arbor-west-neighbourhood.jpg" class ="img-fluid" alt="Bramalea Square Condos Neighbourhood ">
         </div>
     </section> -->
-
-
-    
     <section data-aos="fade-up" >
         <div class="container pt-md-5 pt-5" id="location">
             <div class="pt-md-5 "></div>
             <div class="pt-5" data-aos="fade-up" data-aos-duration="2000" data-aos-delay="50">
                 <h2 class="fw-bold fs-1 mb-0 text-center justify-content-center" data-aos="fade-up">
-                    <span class="mx-1 mb-0">Bramalea Square Condos - Commuting to Mount Pleasant</span> </span>
+                    <span class="mx-1 mb-0">Bramalea Square - Walkthrough Brampton GO Station</span> </span>
                 </h2>
-               <span class="text-center d-flex justify-content-center mx-widthh pb-4 px-2">Bramalea Square Condos are conveniently close to Mount Pleasant Go Station, allowing easy commuting within minutes by car. Parking is available for those who drive to the station.</span>
+               <span class="text-center d-flex justify-content-center mx-widthh pb-4 px-2">Explore Brampton GO Station with the informative self-guided tour walkthrough. Discover its history, amenities, and more.</span>
                 </div>
 
                 <div class ="d-flex justify-content-center align-items-center">
-                <iframe width="860" height="455" src="https://www.youtube.com/embed/0S8WbCyEy2k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+                <iframe width="860" height="465" src="https://www.youtube.com/embed/TNZ_oH7_9Kc?si=5iqdVCDqZ-d3SiLZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
                 </div>
         </div>
     </section>
+
+    
+   
 
     <section class="mt-md-5 py-md-5" id = "faq">
         <div class="container mt-5" data-aos="fade-up" data-aos-duration="2000" data-aos-delay="50">
@@ -314,10 +314,26 @@ This location is in Brampton. Nearby parks include Norton Place Park, Clark Park
       </button>
     </h2>
     <div id="flush-collapseThree" class="accordion-collapse collapse" aria-labelledby="flush-headingThree" data-bs-parent="#accordionFlushExample">
-      <div class="accordion-body">Bramalea Square Condos is a project coming soon in 16 Lisa Street, Brampto by Essence Homes and Yau Shin Investments Inc.</div>
+      <div class="accordion-body">Bramalea Square Condos is a project coming soon in 16 Lisa Street, Brampton by Essence Homes and Yau Shin Investments Inc.</div>
     </div>
   </div>
 </div>
+        </div>
+    </section>
+
+    <section data-aos="fade-up" >
+        <div class="container pt-md-5 pt-5" id="location">
+            <div class="pt-md-5 "></div>
+            <div class="pt-5" data-aos="fade-up" data-aos-duration="2000" data-aos-delay="50">
+                <h2 class="fw-bold fs-1 mb-0 text-center justify-content-center" data-aos="fade-up">
+                    <span class="mx-1 mb-0">Bramalea Square Condos - Commuting to Mount Pleasant</span> </span>
+                </h2>
+               <span class="text-center d-flex justify-content-center mx-widthh pb-4 px-2">Bramalea Square Condos are conveniently close to Mount Pleasant Go Station, allowing easy commuting within minutes by car. Parking is available for those who drive to the station.</span>
+                </div>
+
+                <div class ="d-flex justify-content-center align-items-center">
+                <iframe width="860" height="455" src="https://www.youtube.com/embed/0S8WbCyEy2k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+                </div>
         </div>
     </section>
 
@@ -394,7 +410,7 @@ This location is in Brampton. Nearby parks include Norton Place Park, Clark Park
             <div class="row row-cols-1 row-cols-sm-2 row-cols-md-5 pt-5 justify-content-between ">
                 <div class="col-md-5 my-3 fotwidth center-sm px-4 px-md-0 ">
                     <p class=" ">
-                        <h2 class="navbar-brand-foot fs-4"><a href="https://homebaba.ca/brampton/arbor-west-community" target="_blank" class = "text-dark text-decoration-none">Bramalea Square Condos </a></h2>
+                        <h2 class="navbar-brand-foot fs-4"><a href="https://homebaba.ca/brampton/bramalea-square-condos" target="_blank" class = "text-dark text-decoration-none">Bramalea Square Condos </a></h2>
                     </p>
                     <span class=" justifyy ">
                     We do not represent the builder. Information provided on this website is gathered from publicly available websites. The information might not be updated and could include inaccurate or outdated information such as location, pricing, availability, floor plans etc. To learn more about Bramalea Square Condos, please contact the builder directly. </span>
@@ -414,7 +430,7 @@ This location is in Brampton. Nearby parks include Norton Place Park, Clark Park
                                 Builder : Essence Homes and Yau Shin Investments Inc
                             </p>
                             <p class="mybot pb-md-0 pb-0 ">
-                                Address : 16 Lisa Street, Brampton, Brampton.
+                                Address : 16 Lisa Street, Brampton, ON.
                             </p>
                             <p class="mybot pb-md-0 pb-0 ">
                                 House Type : Condos
