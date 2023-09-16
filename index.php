@@ -117,8 +117,8 @@
 
     <section class="mt-md-5 py-md-5" id = "about">
         <div class="container mt-5" data-aos="fade-up" data-aos-duration="2000" data-aos-delay="50">
-            <h2 class=" main-title pt-md-5 pb-5  fw-bold ps-3 ps-md-0 d-flex justify-content-center d-flex justify-content-center align-items-center text-center">About Bramalea Square Condos</h2>
-            <p class=" pb-3 px-3 textt d-flex justify-content-center align-items-center">Bramalea Square Condos in Brampton is an upcoming pre construction condo development in 16 Lisa Street, Brampton, ON by Essence Homes and Yau Shin Investments Inc.
+            <h2 class=" main-title pt-md-5 pb-5  fw-bold fs-1 ps-3 ps-md-0 d-flex justify-content-center d-flex justify-content-center align-items-center text-center">About Bramalea Square Condos</h2>
+            <p class=" pb-3 px-3 textt d-flex justify-content-center align-items-center">Bramalea Square Condo in Brampton is an upcoming pre construction condo development in 16 Lisa Street, Brampton, ON by Essence Homes and Yau Shin Investments Inc.
             <div class="list  textt  pt-2 px-3">
                                 <p class="mybot pb-md-0 pb-0 ">
                                     Builder: Essence Homes and Yau Shin Investments Inc.
@@ -233,7 +233,7 @@ This location is in Brampton. Nearby parks include Norton Place Park, Clark Park
                 <h2 class="fw-bold fs-1 mb-0 text-center justify-content-center" data-aos="fade-up">
                     <span class="mx-1 pb-3">Street View</span> </span>
                 </h2>
-                <span class="small-text text-center d-flex justify-content-center custom-underline pb-3 px-2">Walk around the neighbourhood near Bramalea Square Condos</span>
+                <span class="small-text text-center d-flex justify-content-center custom-underline pb-3 px-2">Walk around the neighbourhood near Bramalea Square Condo</span>
                 <div class="p-1  d-flex justify-content-center">
                 <iframe src="https://www.google.com/maps/embed?pb=!4v1694616155732!6m8!1m7!1sUHJwPi8P-oX9Pyq7zpwOPA!2m2!1d43.71371826786313!2d-79.7292524509956!3f69.78918967474453!4f-1.2831177356430885!5f0.4000000000000002" width="900" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
                 </div>
@@ -293,7 +293,7 @@ This location is in Brampton. Nearby parks include Norton Place Park, Clark Park
   <div class="accordion-item">
     <h2 class="accordion-header" id="flush-headingTwo">
       <button class="accordion-button collapsed " type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseTwo" aria-expanded="false" aria-controls="flush-collapseTwo">
-      What makes Bramalea Square Condos Attractive ?
+      What makes Bramalea Square Condo Attractive ?
       </button>
     </h2>
     <div id="flush-collapseTwo" class="accordion-collapse collapse" aria-labelledby="flush-headingTwo" data-bs-parent="#accordionFlushExample">
@@ -314,7 +314,7 @@ This location is in Brampton. Nearby parks include Norton Place Park, Clark Park
       </button>
     </h2>
     <div id="flush-collapseThree" class="accordion-collapse collapse" aria-labelledby="flush-headingThree" data-bs-parent="#accordionFlushExample">
-      <div class="accordion-body">Bramalea Square Condos is a project coming soon in 16 Lisa Street, Brampton by Essence Homes and Yau Shin Investments Inc.</div>
+      <div class="accordion-body">Bramalea Square Condo is a project coming soon in 16 Lisa Street, Brampton by Essence Homes and Yau Shin Investments Inc.</div>
     </div>
   </div>
 </div>
