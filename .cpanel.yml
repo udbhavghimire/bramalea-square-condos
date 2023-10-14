@@ -1,5 +1,5 @@
 ---
 deployment:
   tasks:
-    - export DEPLOYPATH=/home4/shrutidu/bramaleasquare.ca/
+    - export DEPLOYPATH=/home/bramp135/bramaleasquare.ca/
     - /bin/cp -r * $DEPLOYPATH
