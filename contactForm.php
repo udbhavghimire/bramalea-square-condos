@@ -12,10 +12,10 @@ require './PHPMailer/src/SMTP.php';
 $mail = new PHPMailer;
 
 $mail->isSMTP(); // Set mailer to use SMTP
-$mail->Host = 'mail.arborwesthome.ca'; // Specify main and backup SMTP servers
+$mail->Host = 'mail.bramaleasquare.ca'; // Specify main and backup SMTP servers
 $mail->SMTPAuth = true; // Enable SMTP authentication
 $mail->Username = 'info@bramaleasquare.ca'; // SMTP username
-$mail->Password = 'mail@bramaleasquare'; // SMTP password
+$mail->Password = 'bramaleasquare'; // SMTP password
 $mail->SMTPSecure = 'tls'; // Enable TLS encryption, `ssl` also accepted
 $mail->Port = 587; // TCP port to connect to
 
@@ -25,7 +25,7 @@ $mail->addAddress('milan@homebaba.ca');
 $mail->addReplyTo($_POST['email']);
 $mail->isHTML(true);
 
-$mail->Subject = "Bramalea Square Condos- Landing Page Inquiry";
+$mail->Subject = "Bramalea Square Condos - Landing Page Inquiry";
 $message = '<html>
 
 <body>';
